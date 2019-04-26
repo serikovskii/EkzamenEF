@@ -1,0 +1,13 @@
+C:\Users\МукушевА.CORP\source\repos\EkzamenEF\EkzamenEF.Models\bin\Debug\EkzamenEF.Models.dll.config
+C:\Users\МукушевА.CORP\source\repos\EkzamenEF\EkzamenEF.Models\bin\Debug\EkzamenEF.Models.dll
+C:\Users\МукушевА.CORP\source\repos\EkzamenEF\EkzamenEF.Models\bin\Debug\EkzamenEF.Models.pdb
+C:\Users\МукушевА.CORP\source\repos\EkzamenEF\EkzamenEF.Models\bin\Debug\EntityFramework.dll
+C:\Users\МукушевА.CORP\source\repos\EkzamenEF\EkzamenEF.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\МукушевА.CORP\source\repos\EkzamenEF\EkzamenEF.Models\bin\Debug\EntityFramework.xml
+C:\Users\МукушевА.CORP\source\repos\EkzamenEF\EkzamenEF.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\МукушевА.CORP\source\repos\EkzamenEF\EkzamenEF.Models\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\МукушевА.CORP\source\repos\EkzamenEF\EkzamenEF.Models\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\МукушевА.CORP\source\repos\EkzamenEF\EkzamenEF.Models\obj\Debug\EkzamenEF.Models.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\EkzamenEF\EkzamenEF.Models\obj\Debug\EkzamenEF.Models.csproj.CopyComplete
+C:\Users\МукушевА.CORP\source\repos\EkzamenEF\EkzamenEF.Models\obj\Debug\EkzamenEF.Models.dll
+C:\Users\МукушевА.CORP\source\repos\EkzamenEF\EkzamenEF.Models\obj\Debug\EkzamenEF.Models.pdb
